@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: katnykiel
+title: Aerith Netzer
 
 # import hextra as module
 module:
@@ -22,7 +22,7 @@ menu:
       pageRef: /about
       weight: 1
     - name: Contact ↗
-      url: "mailto:knykiel@purdue.edu"
+      url: "mailto:aerith.netzer@northwestern.edu"
       weight: 2
     - name: Search
       weight: 3
@@ -30,7 +30,7 @@ menu:
         type: search
     - name: GitHub
       weight: 4
-      url: "https://github.com/katnykiel/katnykiel.github.io"
+      url: "https://github.com/aerithnetzer/aerithnetzer.github.io"
       params:
         icon: github
 
@@ -45,4 +45,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/katnykiel/katnykiel.github.io/edit/main/content"
+    base: "https://github.com/aerithnetzer/aerithnetzer.github.io/edit/main/content"
