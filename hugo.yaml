@@ -20,16 +20,19 @@ menu:
   main:
     - name: About
       pageRef: /about
-      weight: 1
+      weight: 10
+    - name: Blog
+      pageRef: /blog
+      weight: 11
     - name: Contact ↗
       url: "mailto:aerith.netzer@northwestern.edu"
-      weight: 2
+      weight: 20
     - name: Search
-      weight: 3
+      weight: 30
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 40
       url: "https://github.com/aerithnetzer/aerithnetzer.github.io"
       params:
         icon: github
