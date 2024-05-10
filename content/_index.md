@@ -3,10 +3,9 @@ title:  Aerith Netzer
 toc: false
 ---
 <html>
-  <head>
-    <a rel="me" href="https://mastodon.social/@kyberwarlord">Mastodon</a>
-  </head>
+    <a rel="me" href="https://mastodon.social/@kyberwarlord" style="display: none;">Mastodon</a>
 </html>
+
 Welcome to my website! Check out some of the areas below to get started.
 
 ## Explore
