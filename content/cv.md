@@ -10,8 +10,7 @@ M.S. Information Systems and Analytics, Loyola University Chicago
 - Data Visualization in Tableau
 - Data Mining and Predictive Analytics
 
-M.B.A. Loyola University Chicago (in progress)
-
+M.B.A. Loyola University Chicago
 - Specialization in Analytics
 - Organizational Behavior
 
