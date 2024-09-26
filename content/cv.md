@@ -4,7 +4,7 @@ Email: [aerith.netzer@northwestern.edu](aerith.netzer@northwestern.edu)
 
 ## Education
 
-M.S. Information Systems and Analytics, Loyola University Chicago (in progress)
+M.S. Information Systems and Analytics, Loyola University Chicago 
 
 - Python and R
 - Data Visualization in Tableau
