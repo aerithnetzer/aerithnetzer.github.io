@@ -272,7 +272,7 @@ params:
         content: Peer-reviewed article building workflows for citation work
         featured:
           name: Visit
-          link: https://bulletin.appliedtransstudies.org/
+          link: https://journal.code4lib.org/articles/18368
         badges:
           - "High-Performance Computing"
           - "Python"
