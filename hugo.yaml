@@ -55,7 +55,7 @@ Menus:
 
 params:
   title: "Aerith Netzer"
-  description: Text about my cool site
+  description: Aerith Netzer's personal portfolio
   # staticPath: ""  # The path to serve the static files from
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
