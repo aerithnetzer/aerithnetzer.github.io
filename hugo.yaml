@@ -128,9 +128,9 @@ params:
   hero:
     enable: true
     intro: "Hi! My name is"
-    title: "Aerith."
-    subtitle: Librarian, Data Scientist, Web Developer
-    content: "I see products and research projects through the data science and development lifecycle."
+    title: "Aerith!"
+    subtitle: Data scientist, Developer, Librarian.
+    content: "I drive products and research projects from inception to deployment, guiding them through the complete data science and development lifecycle."
     image: aerithnetzer-headshot-2025.JPG
     bottomImage:
       enable: true
@@ -151,13 +151,19 @@ params:
     enable: true
     title: "About Me"
     content: |-
-      I am a librarian who does things that one usually would not associate with librarians. 
+      I am a librarian with a technical and research portfolio beyond conventional librariaship. 
+      I lead and collaborate with interdisciplinary initiatives that apply machine learning and natural language processing 
+      to real-world problems—partnering with faculty and students to analyze how AI is used in medicine, 
+      engineering clickbait classifiers to understand linguistic influence on engagement, and developing terabyte-scale 
+      topic models that reconceptualize archival data as stratigraphic records of human intellectual history.
+      
+      I also provide strategic and technical leadership for Northwestern University Library’s portfolio of 
+      peer-reviewed scholarly journals. I oversee both the editorial workflows and digital infrastructure 
+      for titles including Studies in Russian Philosophy, Literature, and Religious Thought and The 
+      Bulletin of Applied Transgender Studies.
 
-      I work with students and faculty to understand how AI is used in medicine, build clickbait classifiers to understand how language affects
-      click-through rate, and build terabyte-scale topic models to recontextualize the archives as a stratigraphic record of human thought.
-
-      I also maintain Northwestern University Library's peer-reviewed scholarly journals. In particular *Studies in Russian Philosophy, Literature, and Religious Thought* and
-      *The Bulletin of Applied Transgender Studies*.
+      I prefer working with complex information representation over simple numbers. Network/graph analysis, natural language
+      processing, and computer vision is what my heart desires.
     skills:
       enable: false
       title: "Here are a few projects I have been working on recently: "
